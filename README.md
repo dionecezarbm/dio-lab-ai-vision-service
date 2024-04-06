@@ -9,7 +9,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 </br>
 Entrada:
 </br>
-<img src="Input/AzureML-1.png">
+<img src="Input/AzureML-1.jpg">
 </br></br>
 Saída:
 </br>
@@ -24,7 +24,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05
 </br>
 Entrada:
 </br>
-<img src="Input/AzureML-2.png">
+<img src="Input/AzureML-2.jpg">
 </br></br>
 Saída:
 </br>
@@ -39,7 +39,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03
 </br>
 Entrada:
 </br>
-<img src="Input/AzureML-3.png">
+<img src="Input/AzureML-3.jpg">
 </br></br>
 Saída:
 </br>
